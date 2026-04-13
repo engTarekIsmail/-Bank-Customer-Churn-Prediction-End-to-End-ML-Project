@@ -1,10 +1,10 @@
 # 🏦 Bank Customer Churn Prediction — End-to-End ML Project
 
-![Python]<img width="1838" height="718" alt="Screenshot 2026-04-13 174055" src="https://github.com/user-attachments/assets/fbfb71c5-a5b6-4246-a0a5-1f4d040c4af3" />
+![Streamlit]<img width="1838" height="718" alt="Screenshot 2026-04-13 174055" src="https://github.com/user-attachments/assets/fbfb71c5-a5b6-4246-a0a5-1f4d040c4af3" />
 
 ![Streamlit]<img width="1896" height="736" alt="Screenshot 2026-04-13 174012" src="https://github.com/user-attachments/assets/f962d54c-3aca-445d-a583-1c36f6b8d3d9" />
 
-![scikit-learn]<img width="1415" height="641" alt="Screenshot 2026-04-13 174154" src="https://github.com/user-attachments/assets/84fbcf37-348a-483e-8d4e-8cb22a916623" />
+![Data Set Overview]<img width="1415" height="641" alt="Screenshot 2026-04-13 174154" src="https://github.com/user-attachments/assets/84fbcf37-348a-483e-8d4e-8cb22a916623" />
 
 ![Status]<img width="1827" height="802" alt="Screenshot 2026-04-13 174254" src="https://github.com/user-attachments/assets/9d28c3fe-a067-49c6-bded-9e0fb23018b7" />
 
