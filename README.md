@@ -1,6 +1,7 @@
 # 🏦 Bank Customer Churn Prediction — End-to-End ML Project
 
-![Python]Image/Screenshot 2026-04-13 174055.png
+![Python]<img width="1838" height="718" alt="Screenshot 2026-04-13 174055" src="https://github.com/user-attachments/assets/fbfb71c5-a5b6-4246-a0a5-1f4d040c4af3" />
+
 ![Streamlit](Image/Screenshot 2026-04-13 174012.png)
 ![scikit-learn](Image/Screenshot 2026-04-13 174154.png)
 ![Status](Image/Screenshot 2026-04-13 174254.png)
